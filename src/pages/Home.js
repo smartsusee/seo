@@ -15,7 +15,7 @@ function Home() {
         />
       </Helmet>
 
-      <h1>Welcome to Kitkat Software Technologies 1</h1>
+      <h1>Welcome to Kitkat Software Technologies </h1>
     </>
   );
 }
