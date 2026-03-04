@@ -1,0 +1,19 @@
+import { Helmet } from "react-helmet-async";
+
+function Home() {
+  return (
+    <>
+      <Helmet>
+        <title>Kitkat Software Technologies</title>
+        <meta
+          name="description"
+          content="Kitkat Software Technologies provides web development and application services."
+        />
+      </Helmet>
+
+      <h1>Welcome to Kitkat Software Technologies</h1>
+    </>
+  );
+}
+
+export default Home;
